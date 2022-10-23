@@ -1,0 +1,6 @@
+requests~=2.28.1
+beautifulsoup4~=4.11.1
+htlm5lib~=1.16.0
+tweepy~=4.10.1
+pyperclip~=1.8.2
+python-dotenv~=0.21.0
